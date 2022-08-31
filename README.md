@@ -1,7 +1,7 @@
 # Sitio-web
 
 [![Tarjeta de Perfil ELGS](https://cdn.discordapp.com/attachments/747329869469450362/1014390327433515008/unknown.png)](https://cdn.discordapp.com/attachments/747329869469450362/1014390327433515008/unknown.png)
-## ????? Tecnologías usadas:
+## TecnologÃ­as usadas:
 <table>
   <thead>
     <tr>
